@@ -9,3 +9,8 @@ Working with NPM
 #Installation
  
  Go to https://nodejs.org/en/ 
+ <p align="center">
+  <img src="NPM/Screenshot (78).png" width="350"/>
+  <img src="NPM/Screenshot (78).png" width="350"/>
+</p>
+NPM/Screenshot (78).png
