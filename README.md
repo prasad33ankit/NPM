@@ -7,6 +7,6 @@ Working with NPM
 #Installation
 Go to https://nodejs.org/en/ 
 <p align="center">
-  <img src="your_relative_path_here" width="350"/>
-  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+  <img src="C:\Users\Ankit Prasad\Pictures\Screenshots\Screenshot (78)" width="350"/>
+  <img src="C:\Users\Ankit Prasad\Pictures\Screenshots\Screenshot (78)" width="350"/>
 </p>
